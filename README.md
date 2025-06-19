@@ -1,4 +1,4 @@
-# PropWardrobe
+# PropWardrobe ![all](https://img.shields.io/github/downloads/elliotsilly/PropWardrobe/total)
 A simple mod that enables an orginally disabled wardrobe in the Bayou/Prop Haunt map.
 
 # ⚠️THIS DOES HAVE COLLIDERS SO BE CAREFUL!⚠️
